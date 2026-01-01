@@ -1,7 +1,6 @@
 # Harbor Tasks - xelron Assignment Submission
 
 **Submitted by:** Utsav Modi  
-**Course:** SEM_7  
 **Framework:** Harbor - AI Agent Evaluation Platform  
 **Repository:** https://github.com/utsavmodi7777-oss/harbor_xelron
 
