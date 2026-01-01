@@ -1,0 +1,14 @@
+[task]
+name = "word_frequency"
+description = "Count word frequencies in a text file and output the top 10 most common words"
+version = "1.0.0"
+
+[resources]
+cpu_count = 1
+memory_mb = 512
+storage_mb = 100
+timeout_seconds = 60
+
+[entrypoint]
+command = "/bin/bash"
+args = ["-c", "cd /app && /bin/bash"]

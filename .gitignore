@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*_output.txt
+output.txt
+
+# Harbor specific
+.ruff_cache/
+
+# Demo/Test outputs (keep in repo for demo purposes)
+!harbor_tasks/*/demo.py
+!harbor_tasks/*/run_solution.py

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 15",
+    "category": "Electronics",
+    "price": 1199.99,
+    "in_stock": true
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 29.99,
+    "in_stock": true
+  },
+  {
+    "id": 3,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 299.99,
+    "in_stock": false
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 149.99,
+    "in_stock": true
+  },
+  {
+    "id": 5,
+    "name": "Desk Lamp",
+    "category": "Furniture",
+    "price": 45.99,
+    "in_stock": true
+  },
+  {
+    "id": 6,
+    "name": "Monitor 27\"",
+    "category": "Electronics",
+    "price": 349.99,
+    "in_stock": false
+  },
+  {
+    "id": 7,
+    "name": "Notebook Set",
+    "category": "Office Supplies",
+    "price": 15.99,
+    "in_stock": true
+  },
+  {
+    "id": 8,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 599.99,
+    "in_stock": true
+  },
+  {
+    "id": 9,
+    "name": "Pen Pack",
+    "category": "Office Supplies",
+    "price": 8.99,
+    "in_stock": true
+  },
+  {
+    "id": 10,
+    "name": "Webcam HD",
+    "category": "Electronics",
+    "price": 89.99,
+    "in_stock": true
+  },
+  {
+    "id": 11,
+    "name": "Stapler",
+    "category": "Office Supplies",
+    "price": 12.49,
+    "in_stock": false
+  },
+  {
+    "id": 12,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 189.99,
+    "in_stock": true
+  },
+  {
+    "id": 13,
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "price": 49.99,
+    "in_stock": true
+  },
+  {
+    "id": 14,
+    "name": "Paper Shredder",
+    "category": "Office Supplies",
+    "price": 79.99,
+    "in_stock": true
+  },
+  {
+    "id": 15,
+    "name": "Ergonomic Mouse Pad",
+    "category": "Office Supplies",
+    "price": 24.99,
+    "in_stock": true
+  }
+]
