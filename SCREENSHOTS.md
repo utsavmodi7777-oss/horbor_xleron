@@ -318,3 +318,21 @@ These screenshots provide complete documentation of:
 - Sequential numbering (01-07)
 - Descriptive names
 - PNG format for clarity
+
+
+## 📸 **ORIGINAL SCREEN SHOT**
+<img width="727" height="305" alt="image" src="https://github.com/user-attachments/assets/c4ceeaeb-f350-484c-b835-f6d95f0681b0" />
+
+<img width="313" height="340" alt="image" src="https://github.com/user-attachments/assets/85746e03-edce-4eb4-b175-06af01ae5d42" />
+
+<img width="656" height="527" alt="image" src="https://github.com/user-attachments/assets/238dab31-dedc-41b6-8962-7b9d4e11f173" />
+
+<img width="550" height="316" alt="image" src="https://github.com/user-attachments/assets/ec39efd2-ece3-4440-a57e-acc3212b49d6" />
+
+<img width="525" height="465" alt="image" src="https://github.com/user-attachments/assets/842309bb-10f6-48bc-885e-6f6b1c028a2b" />
+
+<img width="485" height="319" alt="image" src="https://github.com/user-attachments/assets/81a6e915-afe1-47eb-b059-e8fa01067a54" />
+
+<img width="478" height="436" alt="image" src="https://github.com/user-attachments/assets/c36a7017-5599-468b-a089-19d5e06db9d5" />
+
+<img width="620" height="358" alt="image" src="https://github.com/user-attachments/assets/a691ee37-c582-41c1-8589-4b1ce6e1adec" />
